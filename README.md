@@ -1,1 +1,1 @@
-# Await-Method
+# Await-Method-JS
